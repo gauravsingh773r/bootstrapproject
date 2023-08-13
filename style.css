@@ -1,0 +1,22 @@
+.styles{
+    text-align: center;
+    padding: 2px;
+}
+#uni{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 8px;
+}
+hr{
+    height: 10px;
+    
+}
+.styl{
+    text-align: center;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 150px;
+    background-color: rgb(205, 215, 224);
+}
